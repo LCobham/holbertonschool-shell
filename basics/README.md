@@ -14,4 +14,5 @@ Here are the intructions of what does each file:
 11-lists: list all files in current dir, parent dir, and /boot
 12-file_type: prints out the file type of /tmp/iamafile
 13-symbolic_link: creates in current dir a symbolic link to ls
+14-copy_html: copy html files from current dir to parent dir if non existent or older in parent dir
 

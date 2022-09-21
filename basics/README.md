@@ -6,4 +6,5 @@ Here are the intructions of what does each file:
 3-listfiles: displays current dir contents in long format
 4-listmorefiles: display current dir contents in long format, including hidden files
 5-listfilesdigitonly: display current dir contents (inc hidden files) showing usr & group ID
+6-firstdirectory: create a dir named my_first_directory in the /tmp dir
 

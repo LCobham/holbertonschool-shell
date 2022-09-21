@@ -12,4 +12,5 @@ Here are the intructions of what does each file:
 9-firstdirdeletion: delete dir /tmp/my_first_directory
 10-back: change dir to former dir
 11-lists: list all files in current dir, parent dir, and /boot
+12-file_type: prints out the file type of /tmp/iamafile
 

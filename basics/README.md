@@ -10,4 +10,5 @@ Here are the intructions of what does each file:
 7-movethatfile: move betty file from /tmp to /tmp/my_first_directory
 8-firstdelete: delete betty file from /tmp/my_first_directory
 9-firstdirdeletion: delete dir /tmp/my_first_directory
+10-back: change dir to former dir
 

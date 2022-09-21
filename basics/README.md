@@ -8,4 +8,5 @@ Here are the intructions of what does each file:
 5-listfilesdigitonly: display current dir contents (inc hidden files) showing usr & group ID
 6-firstdirectory: create a dir named my_first_directory in the /tmp dir
 7-movethatfile: move betty file from /tmp to /tmp/my_first_directory
+8-firstdelete: delete betty file from /tmp/my_first_directory
 

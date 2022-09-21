@@ -13,4 +13,5 @@ Here are the intructions of what does each file:
 10-back: change dir to former dir
 11-lists: list all files in current dir, parent dir, and /boot
 12-file_type: prints out the file type of /tmp/iamafile
+13-symbolic_link: creates in current dir a symbolic link to ls
 

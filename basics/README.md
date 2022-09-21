@@ -4,4 +4,5 @@ Here are the intructions of what does each file:
 1-listit: prints the contents of current directory
 2-bring_me_home: changes directoryto home directory
 3-listfiles: displays current dir contents in long format
+4-listmorefiles: display current dir contents in long format, including hidden files
 

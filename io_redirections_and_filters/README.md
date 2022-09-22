@@ -10,4 +10,5 @@
 9-duplicate_last_line: duplicate the last line of file iacta in current dir
 10-no_more_js: delete files ending in .js (not directories)
 11-directories: counts the number of directories and subdirectories in current dir
+12-newest_files: print 10 newest files, one per line (order: newest to oldest)
 

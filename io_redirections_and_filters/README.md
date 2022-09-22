@@ -14,4 +14,5 @@
 13-unique: given a list of words, print only those who appear once
 14-findthatword: prints out the lines in /etc/passwd ehich contain the word "root"
 15-countthatword: counts the number of times "bin" appears in /etc/passwd
+16-whatsnext: print lines in /etc/passwd that contain the word "root" and three lines after them
 

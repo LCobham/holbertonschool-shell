@@ -13,4 +13,5 @@
 12-newest_files: print 10 newest files, one per line (order: newest to oldest)
 13-unique: given a list of words, print only those who appear once
 14-findthatword: prints out the lines in /etc/passwd ehich contain the word "root"
+15-countthatword: counts the number of times "bin" appears in /etc/passwd
 

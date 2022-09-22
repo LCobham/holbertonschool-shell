@@ -6,4 +6,5 @@
 5-execute: add execution rights to the owner of file hello
 6-multiple_permissions: give execute permission to owner and group, and read permission to other users
 7-everybody: add execution right to everybody
+8-James_Bond: remove all rights of file hello to owner and group, and give all rights to other users
 

@@ -10,4 +10,5 @@
 9-John_Doe: set rights of hello to -rwxr-x-wx
 10-mirror_permissions: set permission rights of hello to those of olleh
 11-directories_permissions: add execution right for subdirectories to all users
+12-directory_permissions: create directory my_dir with permissions 751
 

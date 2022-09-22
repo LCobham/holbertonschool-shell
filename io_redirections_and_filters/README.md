@@ -9,4 +9,5 @@
 8-cwd_state: fills the text file ls_cwd_content with the current contents of the dir
 9-duplicate_last_line: duplicate the last line of file iacta in current dir
 10-no_more_js: delete files ending in .js (not directories)
+11-directories: counts the number of directories and subdirectories in current dir
 

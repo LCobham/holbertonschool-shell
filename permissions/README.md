@@ -4,4 +4,5 @@
 3-new_owner: makes betty the owner of file hello
 4-empty: create in current dir an empty file named hello
 5-execute: add execution rights to the owner of file hello
+6-multiple_permissions: give execute permission to owner and group, and read permission to other users
 

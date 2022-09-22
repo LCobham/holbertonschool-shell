@@ -11,4 +11,5 @@
 10-mirror_permissions: set permission rights of hello to those of olleh
 11-directories_permissions: add execution right for subdirectories to all users
 12-directory_permissions: create directory my_dir with permissions 751
+13-change_group: change group of file hello to school
 

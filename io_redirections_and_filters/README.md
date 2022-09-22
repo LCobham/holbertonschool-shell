@@ -11,4 +11,5 @@
 10-no_more_js: delete files ending in .js (not directories)
 11-directories: counts the number of directories and subdirectories in current dir
 12-newest_files: print 10 newest files, one per line (order: newest to oldest)
+13-unique: given a list of words, print only those who appear once
 

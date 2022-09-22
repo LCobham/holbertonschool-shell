@@ -7,4 +7,5 @@
 6-third_line: print the third line of file iacta in current dir
 7-file: creates  the file "\\*\\\'\"Best School\"\\'\\\*\$\?\\*\\*\\*\\*\\*:)" with the text "Best School"
 8-cwd_state: fills the text file ls_cwd_content with the current contents of the dir
+9-duplicate_last_line: duplicate the last line of file iacta in current dir
 

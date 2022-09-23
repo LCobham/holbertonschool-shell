@@ -1,2 +1,2 @@
 #!/bin/bash
-less | cut -d "-" -f 1 | sort | uniq -c | sort -n | head -11
+less | cut -d "-" -f 1 | sort | uniq -c | sort -n -r | cut -b 2 | head -11

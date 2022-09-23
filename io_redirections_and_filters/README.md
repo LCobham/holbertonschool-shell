@@ -24,3 +24,4 @@
 23-empty_casks: list all empty files and directories in current dir (inc subdirectories)
 24-gifs: prints .gif files in current dir and all subdirectories, sorted
 25-acrostic: print the word formed by the first character of each line
+26-the_biggest_fan: parses TSV file and returns users w most requests

@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwd | cut -d ":" -f 5-6 | sort | uniq
+less /etc/passwd | cut -d ":" -f 1,6 | sort | uniq

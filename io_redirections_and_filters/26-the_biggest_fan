@@ -1,0 +1,2 @@
+#!/bin/bash
+less | cut -d "-" -f 1 | sort | uniq -c

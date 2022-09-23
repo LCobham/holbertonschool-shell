@@ -21,3 +21,6 @@
 20-hiago: removes characters C and c
 21-reverse: reverse the inputs
 22-users_and_homes: Display all users and their home directories, sorted
+23-empty_casks: list all empty files and directories in current dir (inc subdirectories)
+24-gifs: prints .gif files in current dir and all subdirectories, sorted
+25-acrostic: print the word formed by the first character of each line

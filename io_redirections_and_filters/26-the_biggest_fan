@@ -1,2 +1,2 @@
 #!/bin/bash
-less | cut -d "-" -f 1 | sort | uniq -c | sort -nr | head -11
+less | cut -d "G" -f 1 | rev | cut -c 14- | rev | sort | uniq -c | sort -nr | rev | cut -d " " -f 1 | rev | head -11 

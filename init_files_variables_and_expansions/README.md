@@ -1,3 +1,7 @@
 This file contains an explination of the executable files in this directory
 0-alias: create an alias (name=ls, function=rm *)
 1-hello_you: Says hello to current user
+2-path: adds /action to variable PATH as the last directory in which to look 
+3-paths: count number of directories in path
+4-global_variables: prints global variables
+5-local_variables: prints local variables

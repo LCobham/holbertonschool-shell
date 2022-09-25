@@ -1,0 +1,2 @@
+This file contains an explination of the executable files in this directory
+0-alias: create an alias (name=ls, function=rm *)

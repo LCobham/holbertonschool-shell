@@ -5,3 +5,4 @@ This file contains an explination of the executable files in this directory
 3-paths: count number of directories in path
 4-global_variables: prints global variables
 5-local_variables: prints local variables
+6-create_local_variable: Creates a local var BEST

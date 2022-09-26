@@ -7,3 +7,4 @@ This file contains an explination of the executable files in this directory
 5-local_variables: prints local variables
 6-create_local_variable: Creates a local var BEST
 7-create_global_variable: creates a global var BEST
+8-true_knowledge: adds 128 to the value stored in var TRUEKNOWLEDGE

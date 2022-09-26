@@ -13,3 +13,4 @@ This file contains an explination of the executable files in this directory
 11-binary_to_decimal: turns numbers in binary to numbers in base-10
 12-combinations: print all possible combinations of lowercase letters except oo, sorted
 13-print_float: print the value of NUM, with two decimal places
+14-decimal_to_hexadecimal: convert var DECIMAL to hexadecimal (base-16)

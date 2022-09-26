@@ -9,3 +9,4 @@ This file contains an explination of the executable files in this directory
 7-create_global_variable: creates a global var BEST
 8-true_knowledge: adds 128 to the value stored in var TRUEKNOWLEDGE
 9-divide_and_rule: devide var POWER by var DIVIDE
+10-love_exponent_breath: print var BREATH to the power of var LOVE
